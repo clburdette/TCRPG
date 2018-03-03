@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TCRPG.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{481840E6-B9F7-4F46-B620-7444FD14EA00}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TCRPG.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TCRPGEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{9AE5C11E-D386-4C01-9074-A11910FD3461}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TCRPG">
+      <UniqueIdentifier>{BD602939-3A63-45DE-95C0-859A1E9C92C7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TCRPG\TCRPG.Build.cs">
+      <Filter>Source\TCRPG</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TCRPG\TCRPG.cpp">
+      <Filter>Source\TCRPG</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TCRPG\TCRPG.h">
+      <Filter>Source\TCRPG</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TCRPG\TCRPGGameModeBase.cpp">
+      <Filter>Source\TCRPG</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TCRPG\TCRPGGameModeBase.h">
+      <Filter>Source\TCRPG</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\TCRPG\BasePlayer.h">
+      <Filter>Source\TCRPG</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\TCRPG\BasePlayer.cpp">
+      <Filter>Source\TCRPG</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

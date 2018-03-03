@@ -1,0 +1,3 @@
+C:\Users\Curt\Documents\TCRPG\TCRPG\Source\TCRPG\TCRPG.Build.cs
+C:\Users\Curt\Documents\TCRPG\TCRPG\Source\TCRPG.Target.cs
+C:\Users\Curt\Documents\TCRPG\TCRPG\Source\TCRPGEditor.Target.cs

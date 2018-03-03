@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TCRPG.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Curt\Documents\TCRPG\TCRPG\Intermediate\Build\Win64\UE4Editor\Development\TCRPG\TCRPG.cpp.obj"
+"C:\Users\Curt\Documents\TCRPG\TCRPG\Intermediate\Build\Win64\UE4Editor\Development\TCRPG\TCRPGGameModeBase.cpp.obj"
+"C:\Users\Curt\Documents\TCRPG\TCRPG\Intermediate\Build\Win64\UE4Editor\Development\TCRPG\TCRPG.init.gen.cpp.obj"
+"C:\Users\Curt\Documents\TCRPG\TCRPG\Intermediate\Build\Win64\UE4Editor\Development\TCRPG\TCRPGGameModeBase.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\TCRPG\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\Curt\Documents\TCRPG\TCRPG\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TCRPG.lib"
